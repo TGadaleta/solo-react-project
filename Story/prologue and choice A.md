@@ -52,3 +52,41 @@ Option A4: Cut the Engines
 You quickly press the button to cut the engines, hoping it will slow the descent. The ship’s roar quiets, but the rapid fall continues. AURA reacts immediately.
 
 “Disengaging engines will stop the ship's acceleration, but it will not stop the crash. We need to stabilize the descent, Captain! Please, we need a plan!”
+
+A1+A2 -> Hard Crash
+A1+A3 -> Soft Crash
+A1+A4 -> Hard Crash
+A2+A3 -> Death by Viewport
+A2+A4 -> Death by Viewport
+A3+A4 -> Death by Viewport
+
+
+Death by Window
+The ship hits the ground with incredible force. Your seat harness wasn’t fastened in time, and the impact launches you from the chair. You’re hurled toward the cracked viewport.
+
+For a fleeting moment, you see the alien landscape rushing up to meet you before the glass shatters. The last thing you feel is a sudden, jarring stop as the world fades to black.
+
+GAME OVER
+Try Again?
+
+Hard Crash
+Outcome of an imperfect stabilization attempt or letting AURA handle the landing with insufficient preparation.
+
+The ship slams into the planet’s surface with a force that shakes every bone in your body. The sound of metal grinding against dirt is deafening, and the bridge is a mess of sparks and smoke.
+
+Your seat harness digs into your chest, the only thing keeping you from being thrown into the chaos. Eventually, the ship skids to a stop, half-buried in the rocky terrain.
+
+AURA’s voice crackles through the bridge, strained but still intact.
+“Well... that wasn’t ideal. But hey, you’re alive! Now, if you don’t mind, I’ll need some help putting me—and the ship—back together.”
+
+Soft Crash
+Outcome of a well-timed stabilization effort, either by assisting AURA or executing a correct maneuver.
+
+You wrestle with the controls, every muscle straining as you fight against gravity. The ship bounces hard as it makes contact with the ground, skidding across the rocky terrain.
+
+Each successive impact is slightly less forceful, the momentum dissipating bit by bit until the ship finally comes to a stop. You sit back, gasping for breath as the straps dig into your shoulders.
+
+AURA’s voice, calm but tinged with humor, breaks the silence.
+“Well done, Captain! That was... almost graceful. Now, if only the rest of the ship survived that landing.”
+
+Hard Crash and Soft Crash go to Scene 1
