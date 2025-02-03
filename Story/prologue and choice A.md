@@ -61,7 +61,7 @@ A2+A4 -> Death by Viewport
 A3+A4 -> Death by Viewport
 
 
-Death by Window
+Death by Viewport
 The ship hits the ground with incredible force. Your seat harness wasn’t fastened in time, and the impact launches you from the chair. You’re hurled toward the cracked viewport.
 
 For a fleeting moment, you see the alien landscape rushing up to meet you before the glass shatters. The last thing you feel is a sudden, jarring stop as the world fades to black.
