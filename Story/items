@@ -1,0 +1,12 @@
+plasma_torch = Item.object.create(
+    name= 'Plasma Torch',
+    description= 'A high-intensity plasma-based cutting and welding tool designed for spacecraft repairs and industrial applications. The torch generates a concentrated arc of ionized gas, capable of slicing through metal alloys or fusing components with extreme precision.',
+    components= {},
+    weight= 1,
+    is_weapon= False,
+    physical_attack= 0,
+    requires_energy= True,
+    energy= 40,
+    is_consumable= False,
+    is_key= True,
+)
