@@ -17,8 +17,6 @@ class Player(models.Model):
 
     def check_game_over(self, custom_message=None):
         """Centralized game over check with EVA Suit safeguard."""
-        if not self.eva_suit:
-            return None  # ✅ Prevents AttributeError if eva_suit is None
         if self.current_health == "dead":
             return custom_message or "Your body fails you. The Abyss claims you."
         if self.current_sanity == "insane":
