@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'darkplanet.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'darkplanet_database',
+        'NAME': 'darkplanet_db',
         'USER': 'tonygadaleta',
         'PASSWORD': 'password',
         'HOST': 'localhost',
